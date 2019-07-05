@@ -1,0 +1,3 @@
+Yahoo Finance -> https://finance.yahoo.com/quote/002502.SZ/history?period1=1554069600&period2=1562277600&interval=1d&filter=history&frequency=1d
+Python - Pandas Financia Analytics ->  https://towardsdatascience.com/financial-analytics-exploratory-data-analysis-of-stock-data-d98cbadf98b9
+Huawei Sales in the world - https://deviceatlas.com/blog/huawei-now-worlds-second-largest-smartphone-producer
