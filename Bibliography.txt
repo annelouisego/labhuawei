@@ -3,4 +3,5 @@ Python - Pandas Financia Analytics ->
  https://towardsdatascience.com/financial-analytics-exploratory-data-analysis-of-stock-data-d98cbadf98b9
 Huawei Sales in the world - https://deviceatlas.com/blog/huawei-now-worlds-second-largest-smartphone-producer
 Top 10 Huawei Phones - https://www.techadvisor.co.uk/test-centre/mobile-phone/best-huawei-phones-3674203/
-Convert Json in CSV - http://convertcsv.com/json-to-csv.htm
+Convert Json in CSV - http://convertcsv.com/json-to-csv.html
+News API - https://newsapi.org
